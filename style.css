@@ -7,7 +7,7 @@
   body {
     width: 100%;
     font-family: 'Press Start 2P', cursive;
-    background-color: #011F3F;
+    background-color: #98cfd4;
     height: 100vh;
     display: flex;
     align-items: center;
@@ -85,7 +85,8 @@
     justify-items: center;
     padding-top: 5%;
     font-size: large;
-    padding-left: 34%;
+    padding-left: 1%;
+    
   }
   .text3{
     justify-items: center;
@@ -104,4 +105,8 @@
   }
   .fab{
     padding-top: 15%;
+  }
+  .para{
+    font-size: medium;
+    padding-top: 5%;
   }
